@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script>
+        function validation()
+        {
+            var name=document.getElementsByClassName(ank);
+
+            var password=document.getElementsByClassName(arju);
+            if(name==null || name=="")
+            {
+                alert("name can't be blank");
+            }
+            else if(password.length<6)
+            {
+                alert("password must be at least 6 characters");
+                return false;
+            }
+        }
+    </script>
+    <style>
+     
+     body{
+        
+        left:12cm
+
+     }
+        input .sau,.aaru,.ank,.arju,.sam{
+            
+            text-decoration:double;
+            border-radius:12px;
+            width:30%;
+            height:1cm;
+            border-color:hotpink;
+            position:relative;
+            left:12cm;
+            
+            margin:12px;
+            
+
+
+        }
+        h1{
+            text-align:center;
+            color:purple;
+            font-size: 1.2cm;
+            text-transform:uppercase;
+            text-shadow:3px 1px black;
+            
+            
+            
+            
+
+            
+        }
+        h4{
+            padding:12px 20px;
+            margin:12px;
+            position:relative;
+            left:12cm;
+            
+
+        }
+        label{
+            font-size: 20px;
+            color:hotpink;
+            position:relative;
+            left:12cm;
+            padding:12px 20px;
+            margin:20px;
+
+
+        }
+        .sonu{
+            text-decoration:double;
+            border-radius:12px;
+            width:30%;
+            height:1cm;
+            border-color:hotpink;
+            position:relative;
+            left:12cm;
+            margin:12px;
+            
+            
+            
+
+        }
+        .ps{
+            
+            color:white;
+            background-color:hotpink;
+            border-radius: 12cm;
+            border-bottom: 12cm;
+            padding:12px 20px;
+            position:relative;
+            left:12cm;
+
+            
+
+
+            
+
+
+
+        }
+        textarea{
+            width:50%;
+            position:relative;
+            left:12cm;
+            border:50px;
+            border-radius:12px ;
+            border-color: blue;
+            border-bottom: bottom 12px ;
+            background-color: pink;
+        }
+        button
+         {
+            border-radius: 12px;
+            width:4cm;
+            height:1cm;
+            color:white;
+            background-color:hotpink;
+            border-bottom: 12px;
+
+            padding:12px 20px;
+            margin:12px;
+            position:relative;
+            left:20cm;
+            
+
+
+           
+            
+        }
+        #cs50{
+            text-align:center;
+
+        }
+
+    </style>
+    <script>
+        
+    </script>
+
+</head>
+<body>
+    <form action="/action.php" onsubmit="return validation()">
+        <h1>learntech</h1>
+        
+        <h1>profile</h1>
+        <br>
+        <br>
+        <h2 id="cs50">create your own  learntech profile for <br> your faviourite career</h2>
+        <br>
+        <br>
+        <h4>your full name</h4>
+        <br>
+        <input  class="ank" class="sau" type="text" placeholder="your full name">
+        <br>
+        <br>
+        <h4>your phone number</h4>
+        <br>
+        <input class="aaru" type="mobile number" placeholder="enter your phone numbers">
+        <br>
+        <br>
+        <h4>your email address</h4>
+        <br>
+        <input class="sam" type="email" placeholder="enter your email address">
+        <br>
+        <br>
+        <h4>enter your password</h4>
+        <input class="arju" type="password" placeholder="enter your password">
+        <br>
+        <br>
+
+        
+         <h4>select class</h4>
+         <br>
+        <label for="1">
+            <input type="radio" value="class 10" name="class" id="11">class 10
+            
+            
+        </label>
+        <br>
+        <br>
+
+        <label for="2">
+            <input type="radio" value="class 11" name="class" id="12">class 11
+        </label>
+        <br>
+        <br>
+        <label for="3">
+            <input type="radio" value="class 12" name="class" id="13">class 12
+           </label>
+            <br>
+
+
+           <br>
+           <h4>enter your college name</h4>
+            <input class="sonu" type="text" placeholder="enter your collage name">
+         <br>
+         <br>
+         <h4>select your city</h4>
+         <select class="ps"  name="city">
+            
+            <option value="delhi" >delhi</option>
+            <option value="mumbai">mumbai</option>
+            <option value="gujarat">gujarat</option>
+        </option>
+
+         </select>
+         <br>
+         <br>
+         
+         <textarea name="feedback" id="102" placeholder="please give me your feedback" rows="10" cols="40"></textarea>
+         <br>
+         <br>
+         <button  onsubmit=" validation()">submit</button>  
+    </form>
+    
+
+</body>
+</html>

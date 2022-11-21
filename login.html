@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>login page</title>
+    <script type="text/javascript" src="login.js">
+
+    </script>
+    <style>
+        body{
+        
+        left:12cm
+
+     }
+        input .sau,.aaru,.ank,.arju,.sam{
+            
+            text-decoration:double;
+            border-radius:12px;
+            width:90%;
+            height:1cm;
+            
+            position:relative;
+            
+            
+            margin:12px;
+            
+
+
+        }
+        h1{
+            text-align:left;
+            color:purple;
+            font-size: 15px;
+            text-transform:uppercase;
+            text-shadow:3px 1px black;
+            position:absolute;
+            bottom:550px;
+            font-size:60px;
+            left:120px;
+            
+            
+            
+            
+
+            
+        }
+        h4{
+            padding:12px 20px;
+            margin:12px;
+            position:relative;
+            left:30cm;
+            
+
+        }
+
+        .sonu{
+            text-decoration:double;
+            border-radius:12px;
+            width:30%;
+            height:1cm;
+            border-color:hotpink;
+            position:relative;
+            left:12cm;
+            margin:12px;
+            
+            
+            
+
+        }
+        button
+         {
+            border-radius: 12px;
+            width:90%;
+            height:1cm;
+            color:white;
+            background-color:hotpink;
+            border-bottom: 12px;
+
+            padding:12px 20px;
+            margin:12px;
+            position:relative;
+            bottom:-30px;
+            
+            
+
+
+           
+            
+        }
+        .center{
+            bottom:500px;
+            left:140px;
+            font-size:60px;
+
+        }
+        .setu{
+            color:purple;
+            bottom:450px;
+            left:160px;
+            font-size:40px;
+        }
+        #nill{
+            position:absolute;
+            bottom:400px;
+            left:700px;
+            height:10cm;
+            width:25%;
+            background-color:white;
+            border-radius: 20px;
+        }
+        .vishal{
+            background-color:darkgray;
+            height:20cm;
+        }
+        .hit{
+            text-decoration:none;
+            font-size:20px;
+            position:absolute;
+            left:120px;
+            font-weight: bolder;
+        }
+        .east{
+            background-color:green;
+        }
+        hr{
+            position:absolute;
+            bottom:-1px;
+        }
+
+     
+    </style>
+    <script>
+        function on()
+        {
+            let insta=document.myform.name.value;
+            if(insta==null || insta==" ")
+            {
+                alert("name can't be blank");
+            }
+        }
+    </script>
+</head>
+<body>
+    <div class="vishal">
+    <div class="vilas">
+    <h1>learntech</h1>
+</div>
+    <form name="myform" id="nill"  onsubmit="return on()">
+    
+    
+    
+    <br>
+    <input class="ank"  name="name"class="sau" type="text" placeholder="enter your email address or mobile number">
+    
+    <br>
+    
+    <input class="arju"  type="password" placeholder="enter your password">
+    <br>
+    <br>
+    <a class="hit" href="/forget.html">forget password</a>
+    <button>login</button>
+    <br>
+    <hr>
+    <br>
+    <button class="east"  >create new account</button>
+    </form>
+    </div>
+</body>
+</html>

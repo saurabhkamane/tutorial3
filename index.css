@@ -1,0 +1,1323 @@
+
+
+       header{
+        text-align:center;
+        padding:12px 20px;
+        margin:12px;
+        
+        
+        font-weight:lighter;
+        text-shadow: 12px;
+        
+
+
+       }
+       h1{
+        color:purple;
+        font-size:1.5cm;
+        
+        text-shadow:3px 1px black;
+        position:absolute;
+        bottom:600px;
+        text-align: center;
+        left:500px;
+        text-transform:uppercase;
+        
+
+       }
+       .here{
+        color:antiquewhite;
+        position:absolute;
+        bottom:250px;
+        left:400px;
+        font-size:40px;
+        border:5px solid antiquewhite;
+
+
+       }
+       .hello{
+        color:white;
+        font-size: 30px;
+        position:absolute;
+        bottom:500px;
+        left:500px;
+        font-style: 12px bold white;
+        font-weight: bolder;
+        text-transform: uppercase;
+       }
+       ol{
+        padding:12px 20px;
+        margin:12px;
+        height:3cm;
+        width:8%;
+
+        list-style-type: none;
+        font-size: 20px;
+        border-radius:15px;
+       }
+       
+       input.member{
+        position:absolute;
+        padding:12px 20px;
+        margin:12px;
+        text-align: center;
+        width:1000px;
+        box-sizing:  border-box;
+        border-radius: 10px;
+        border:3px solid orange;
+        
+        bottom:-300px;
+       
+       }
+       .colli{
+        
+        position:absalute;
+        left:1310px;
+        top:265px;
+       }
+       input[type=submit]{
+        
+        padding:12px 20px;
+        left:1400px;
+        border-radius: 12px;
+        background-color: green;
+
+
+        
+        
+        
+       }
+       .select{
+        background-color:green;
+        width:200%;
+        text-align:center;
+        height:1.2cm;
+        border-radius:12px;
+        border-color:black;
+        position:absolute;
+        left:1030px;
+        bottom:-289px;
+
+       }
+       form{
+        padding:12px 20px;
+        position:absolute;
+        left:300px;
+        top:5cm;
+        
+
+       }
+       div{
+        padding:12px 20px;
+        font-size:25px;
+        font-weight: lighter;
+        
+        
+       }
+       a{
+        text-decoration: none;
+        
+
+       }
+       .st{
+          border-radius:12px;
+         /* border:2px solid black;*/
+          width:130px;
+          
+          
+          position:absolute;
+          left:1600px;
+          top:20px;
+          color:3px solid white;
+          border:3px solid white;
+          
+          
+       }
+       .st:hover{
+        background-color:purple;
+       }
+       .md{
+        color:white;
+        text-decoration:none;
+       }
+       .nt{
+
+        border-radius:12px;
+          background-color:rgb(115, 170, 115);
+          border:12px;
+          border:3px solid black;
+          width:130px;
+          border-bottom: 12px;
+          margin:3px;
+          
+          
+
+       }
+       .samp{
+        color:white;
+       }
+       .iot{border-radius:12px;
+        /* border:2px solid black;*/
+         width:130px;
+         
+         
+         position:absolute;
+         left:1400px;
+         top:20px;
+         border:3px solid white;
+        
+       }
+       .iot:hover{
+        background-color:purple;
+       }
+       .data{
+        color:white;
+        text-decoration: none;
+       }
+       .pott{border-radius:12px;
+        /* border:2px solid black;*/
+         width:130px;
+         
+         
+         position:absolute;
+         left:1200px;
+         top:20px;
+         border:3px solid white;
+       }
+       .pott:hover{
+        background-color:purple;
+        
+       }
+       .point{
+        color:white;
+        text-decoration:none;
+       }
+
+       .sott{
+        border-radius:12px;
+        /* border:2px solid black;*/
+         width:130px;
+         
+         
+         position:absolute;
+         left:1000px;
+         top:20px; 
+         border:3px solid white;
+
+       }
+       .sott:hover{
+        background-color:purple;
+       }
+       .git{
+        color:white;
+        text-decoration:none;
+       }
+       .aavi,.hema,.shiva,.srthi,.meme{
+        color:black;
+        border:12px;
+        background-color:rgb(115, 170, 115);
+        padding:12px 20px;
+        margin:12px;
+        position:relative;
+        left:12cm;
+        top:15px;
+        border-radius:12px;
+        
+
+       }
+        body{
+         background-image:url("https://psmag.com/.image/t_share/MTUwMjg0NDIxMTE3NzgyMDEy/college-2.jpg");
+        background-repeat:no-repeat;
+        background-size:cover;
+        
+
+        
+
+        
+       }
+       img[url] 
+       
+
+       .meta{
+
+        padding:12px;
+        position:relative;
+        top:70px;
+        left:49%;
+        color:purple;
+        font-size:35px;
+       }
+       .first{
+        padding:12px 20px;
+        position:absolute;
+        bottom:12px;
+        left:300px;
+        width:10pc;
+        height:3cm;
+        background-color:azure;
+        border:2px solid black;
+        border-radius:12px;
+       }
+       p{
+        font-style:oblique;
+        color:black;
+
+       }
+       
+       /*top institute*/
+       .top{
+        position:absolute;
+        bottom:-400px;
+        left:680px;
+       }
+       
+       .son{
+        width:50%;
+        height:15cm;
+        
+        
+       }
+       .stuff{
+        position:absolute;
+        
+        
+        bottom:-1200px;
+        padding:50px;
+        margin:50px;
+        
+
+        
+        
+       }
+       .steve{
+        position:absolute;
+        bottom:550px;
+        left:150px;
+        color:whitesmoke;
+        font-size:30px;
+       }
+       /*instruction*/
+       .int{
+
+        position:absolute;
+        bottom:-500px;
+        left:600px;
+        text-align:center;
+        border:2px solid black;
+        background-color:bisque;
+        color:purple;
+        border-radius: 10px;
+       }
+
+       /*iit madars*/
+       .easy{
+        position:absolute;
+        bottom:-1200px;
+        padding:50px;
+        margin:50px;
+        left:500px;
+        
+
+       }
+       .mc{
+        width:55%;
+        height:15cm;
+        
+       }
+       .xx{
+        position:absolute;
+        bottom:550px;
+        left:150px;
+        color:whitesmoke;
+        font-size:30px;
+       
+
+       }
+       /* university of delhi*/
+       .city{
+        width:70%;
+        height:15cm;
+        
+       }
+       .capital{
+        position:absolute;
+        
+        
+        bottom:-1200px;
+        padding:50px;
+        margin:50px;
+        left:1000px;
+        
+       }
+       .delhi{
+        color:antiquewhite;
+        position:absolute;
+        bottom:550px;
+        left:150px;
+        
+        font-size:30px;
+       
+       }
+       /*ourcourses*/
+       .courses{
+        position:absolute;
+        bottom:-450px;
+        left:800px;
+        text-transform:uppercase;
+        font-size: 40px;
+        color:purple;
+
+
+       }
+       /*internet of things*/
+       .cou1{
+        width:99%;
+        height:8cm;
+        
+       }
+       .internet{
+        position:absolute;
+        bottom:-1000px;
+        width:20%;
+        height:13cm;
+        background-color: antiquewhite;
+        border-radius:12px;
+        left:200px;
+        
+        
+        
+        
+        
+        
+
+       }
+       .internet:hover{
+        height:13.5cm;
+        width:21%;
+        
+       }
+       
+       
+       .stp{
+        position:absolute;
+        bottom:50px;
+        left:70px;
+
+        color:cadetblue;
+        width:50%;
+        height: 1cm;
+       }
+       .iots{
+        color:purple;
+        text-align: center;
+        text-transform: uppercase;
+       }
+
+
+
+
+
+
+       /*artificial intelligence and machine learning*/
+       .ml{
+
+        width:99%;
+        height:8cm;
+       }
+       .artifi{
+        width:20%;
+        height:13cm;
+        background-color:antiquewhite;
+        position: absolute;
+        bottom:-1000px;
+        left:700px;
+        border-radius:12px;
+        
+       }
+       .artifi:hover{
+        height:13.5cm;
+        width:21%;
+       }
+       .ai{
+
+        color:purple;
+        text-align: center;
+        text-transform: uppercase;
+
+       }
+       .hasina{
+        position:absolute;
+        bottom:50px;
+        left:70px;
+
+        color:cadetblue;
+        width:50%;
+        height: 1cm;
+       }
+      /*blockchain development*/
+      .develop{
+
+        width:99%;
+        height:8cm;
+      }
+      .block{
+
+        position:absolute;
+        width:20%;
+        height:13cm;
+        bottom:-1000px;
+        left:1200px;
+        background-color:antiquewhite;
+        border-radius:12px;
+
+
+      }
+      .block:hover{
+        height:13.5cm;
+        width:21%;
+      }
+      .chain{
+
+        color:purple;
+        text-align: center;
+        text-transform: uppercase;
+      }
+      
+      .sms{
+        
+        position:absolute;
+        bottom:50px;
+        left:70px;
+
+        color:cadetblue;
+        width:50%;
+        height: 1cm;
+        
+      }
+      .sms:hover{
+        background-color:purple;
+        
+      }
+      
+      /*datascience*/
+     .ullu{
+
+      width:99%;
+      height:8cm;
+     }
+     .peta{
+
+      position:absolute;
+      width:20%;
+      height:13cm;
+      bottom:-1550px;
+      left:190px;
+      background-color:antiquewhite;
+      border-radius:12px;
+
+     }
+     .peta:hover{
+      
+      height:13.5cm;
+      width:21%;
+     }
+     .sci{
+      
+      color:purple;
+      text-align: center;
+      text-transform: uppercase;
+       
+     }
+     
+     .msb{
+
+      position:absolute;
+      bottom:50px;
+      left:70px;
+
+      color:cadetblue;
+      width:50%;
+      height: 1cm;
+     }
+/*aws*/
+.aws{
+
+  position:absolute;
+  width:20%;
+  height:13cm;
+  bottom:-1550px;
+  left:700px;
+  background-color:antiquewhite;
+  border-radius:12px;
+}
+.aws:hover{
+
+  height:13.5cm;
+  width:21%;
+}
+.amma{
+
+  width:99%;
+  height:8cm;
+}
+.seeta{
+
+  color:purple;
+  text-align: center;
+  text-transform: uppercase;
+}
+    
+    .soda{
+
+      position:absolute;
+      bottom:50px;
+      left:70px;
+
+      color:cadetblue;
+      width:50%;
+      height: 1cm;
+    }
+    /*full stack developer*/
+    .stack{
+
+  position:absolute;
+  width:20%;
+  height:13cm;
+  bottom:-1550px;
+  left:1200px;
+  background-color:antiquewhite;
+  border-radius:12px;
+    }
+    .stack:hover{
+
+      height:13.5cm;
+      width:21%;
+    }
+    .maa{
+
+  width:99%;
+  height:8cm;
+    }
+    
+    .cd{
+
+      position:absolute;
+      bottom:50px;
+      left:70px;
+
+      color:cadetblue;
+      width:50%;
+      height: 1cm;
+    }
+    .full{
+
+      color:purple;
+      text-align: center;
+      text-transform: uppercase;
+    }
+    /*fruntend developer*/
+    .mango{
+
+  position:absolute;
+  width:20%;
+  height:13cm;
+  bottom:-2100px;
+  left:190px;
+  background-color:antiquewhite;
+  border-radius:12px;
+
+    }
+    .mango:hover{
+
+      height:13.5cm;
+      width:21%;
+    }
+    .daji{
+
+  width:99%;
+  height:8cm;
+    }
+    
+    .cisco{
+
+      position:absolute;
+      bottom:50px;
+      left:70px;
+
+      color:cadetblue;
+      width:50%;
+      height: 1cm;
+    }
+    .aaigo{
+
+      color:purple;
+      text-align: center;
+      text-transform: uppercase;
+    }
+
+       
+    /*backend development*/
+    .manga{
+
+  position:absolute;
+  width:20%;
+  height:13cm;
+  bottom:-2100px;
+  left:700px;
+  background-color:antiquewhite;
+  border-radius:12px;
+    }
+    .manga:hover{
+
+      height:13.5cm;
+      width:21%;
+    }
+    .frunt{
+
+  width:99%;
+  height:8cm;
+
+    }
+    
+.hiska{
+
+  position:absolute;
+  bottom:50px;
+  left:70px;
+
+  color:cadetblue;
+  width:50%;
+  height: 1cm;
+
+
+}
+.indigo{
+
+  color:purple;
+  text-align: center;
+  text-transform: uppercase;
+}
+/*graphics designing*/
+.chu{
+
+  position:absolute;
+  width:20%;
+  height:13cm;
+  bottom:-2100px;
+  left:1200px;
+  background-color:antiquewhite;
+  border-radius:12px;
+
+}
+.chu:hover{
+
+  height:13.5cm;
+  width:21%;
+}
+.graph{
+
+  width:99%;
+  height:8cm;
+
+}
+
+.maha{
+
+  position:absolute;
+  bottom:50px;
+  left:70px;
+
+  color:cadetblue;
+  width:50%;
+  height: 1cm;
+
+}
+.maru{
+  
+  color:purple;
+  text-align: center;
+  text-transform: uppercase;
+
+}
+/*hiring parteners*/
+.state{
+  font-size:50px;
+  position:absolute;
+  bottom:-2300px;
+  text-align:center;
+  left:700px;
+  color:purple;
+  text-transform: uppercase;
+}
+
+
+.rand{
+  position:absolute;
+  bottom:-2520px;
+  left: 80px;
+}
+
+
+.goo{
+  width:50%;
+  height:4cm;
+  padding:12px 20px;
+}    
+/*microsoft*/
+.ansari{
+
+  width:50%;
+  height:3.5cm;
+
+}
+.ktm{
+
+  position:absolute;
+  bottom:-2500px;
+  left:400px; 
+
+}
+/*linden*/
+.lingo{
+
+  position:absolute;
+  bottom:-2500px;
+  left:800px; 
+
+}
+.sk{
+
+  width:50%;
+  height:3.5cm;
+}
+/*apple*/
+
+.sasu{
+
+  position:absolute;
+  bottom:-2500px;
+  left:1150px; 
+  
+
+
+}
+.china{
+
+  width:70%;
+  height:3.5cm;
+
+}
+/*facebook*/
+.cnn{
+
+  position:absolute;
+  bottom:-2500px;
+  left:1400px;
+
+}
+.fuck{
+
+  width:100%;
+  height:3.5cm;
+
+}
+/* opinion */
+.chriss{
+  position:absolute;
+  bottom:-2800px;
+  left:300px;
+  text-transform:uppercase;
+color:purple;
+}
+
+.device{
+  position:absolute;
+  bottom:-3200px;
+  left:100px;
+  width:20%;
+
+  
+  height:8cm;
+  
+}
+.pista{
+  width:80%;
+  border-radius:200%;
+  position:absolute;
+  left:30px;
+  height:8cm;
+
+}
+.cascanding{
+  position:absolute;
+  bottom:-3600px;
+  width:25%;
+  height:10cm;
+  padding:12px 20px;
+  left:80px;
+}
+.ios{
+  
+  font-size:20px;
+  font-weight:light;
+}
+.xy{
+  position:absolute;
+  
+  font-weight:light;
+  font-size:20px;
+  
+  
+  
+}
+/*opinion 2*/
+.s12{
+  position:absolute;
+  bottom:-3200px;
+  left:700px;
+  width:20%;
+
+  
+  height:8cm;
+
+}
+.sister{
+
+  width:80%;
+  border-radius:200%;
+  position:absolute;
+  left:30px;
+  height:8cm;
+
+}
+.histo{
+
+  position:absolute;
+  bottom:-3600px;
+  width:25%;
+  height:10cm;
+  padding:12px 20px;
+  left:700px;
+
+}
+.ddc{
+  
+  font-size:20px;
+  font-weight:light;
+}
+.dadi{
+  font-size:20px;
+}
+/*opinon 2*/
+.kshito{
+
+  position:absolute;
+  bottom:-3200px;
+  left:1300px;
+  width:20%;
+
+  
+  height:8cm;
+}
+.archi{
+
+  width:80%;
+  border-radius:200%;
+  position:absolute;
+  left:30px;
+  height:8cm;
+
+}
+.switch{
+
+  position:absolute;
+  bottom:-3600px;
+  width:25%;
+  height:10cm;
+  padding:12px 20px;
+  left:1300px;
+
+}
+.copy{
+
+  font-size:20px;
+  font-weight:light;
+
+}
+.paste{
+  font-size:20px;
+  font-weight:light;
+}
+/*offers for students*/
+.strict{
+  background-color:antiquewhite;  
+  width:100%;
+  height:30cm;
+  position:absolute;
+  bottom:-5000px;
+  padding-top:12px;
+  
+  
+  
+}
+.ias{
+  width:100%;
+  height:15cm;
+}
+.elem{
+  text-align:center;
+
+}
+.action{
+  background-color:white;
+  width:20%;
+  position:absolute;
+  
+  left:100px;
+  height:15cm;
+  bottom:400px;
+}
+.strit{
+  text-align:center;
+}
+.cla{
+  text-align:center;
+
+}
+.zp{
+  text-align:center;
+  font-size:15px;
+  
+
+
+
+}
+.dj{
+  width:10%;
+
+  
+}
+.ig{
+  font-size: 15px;
+  position:absolute;
+  bottom:0px;
+  padding-bottom:150px;
+  
+}
+.mj{
+  width:10%;
+
+  
+}
+.pg{
+  font-size:15px;
+  position:absolute;
+  bottom:0px;
+  padding-bottom: 80px;
+}
+.science{
+  font-size:40px;
+  text-align:center;
+}
+
+.dweep{
+
+  color:black;
+  background-color:rgb(165, 137, 137);
+  width:50%;
+  height:1cm;
+  border-radius:12px;
+  border-color:red;
+  position:absolute;
+  right:120px;
+
+}
+/*for three months*/
+.rejection{
+  position:absolute;
+  left:520px;
+  background-color:white;
+  width:25%;
+  height:20cm;
+  bottom:300px;
+}
+.fix{
+  color:black;
+  background-color:rgb(165, 137, 137);
+  width:50%;
+  height:1cm;
+  border-radius:12px;
+  border-color:red;
+
+
+}
+
+.chest{
+
+  text-align:center;
+
+}
+.mimi{
+  text-align:center;
+}
+.didi{
+  text-align:center;
+  font-size:40px;
+
+}
+.aii{
+  font-size:15px;
+  text-align:center;
+  
+}
+.fix{
+  position:absolute;
+  left:120px;
+  
+  
+}
+.lig{
+  
+
+  font-size:15px;
+
+  
+  
+
+}
+.leep{
+  
+  font-size:15px;
+
+  
+  
+}
+.listing{
+  font-size:15px;
+  
+}
+/*second offer*/
+.ling{
+background-color:white;
+  width:20%;
+  position:absolute;
+  
+  left:50px;
+  height:15cm;
+  bottom:400px;
+  left:1035px;
+}
+.depo{
+  text-align:center;
+  font-size:40px;
+}
+.sand{
+  text-align:center;
+
+}
+.minot{
+  text-align:center;
+  font-size:15px;
+  
+}
+.x{
+  font-size:15px;
+
+}
+.n{
+  font-size:15px;
+}
+/*end point of the website*/
+.pusy
+{
+  background-color:black;
+  position:absolute;
+  bottom:-5500px;
+  width:100%;
+  padding:0px;
+  margin:0px;
+  height:20cm;
+
+
+}
+.mis{
+  text-align:center;
+  font-size:40px;
+  padding-top:12px;
+  color:blueviolet;
+  text-transform: uppercase;;
+
+}
+.dc{
+  color:black;
+  padding:12px;
+}
+/*.fix{
+  font-size:20px;
+  font-weight:bolder;
+  width:50%;
+}*/
+.six{
+  padding:50px;
+  font-weight:bolder;
+  color:white;
+  position:absolute;
+  left:100px;
+  top:109px;
+  
+}
+.vs{
+   position:absolute;
+   left: 150px;
+   top:200px;
+   
+}
+.disc1{
+  text-decoration:none;
+  color:white;
+  font-size:20px;
+  font-weight:lighter;
+   
+
+
+  
+}
+.disc2{
+
+  text-decoration:none;
+  color:white;
+  font-size:20px;
+  font-weight:lighter;
+  
+
+}
+.disc3{
+
+  text-decoration:none;
+  color:white;
+  font-size:20px;
+  font-weight:lighter;
+  
+  
+  
+}
+.disc4{
+
+  text-decoration:none;
+  color:white;
+  font-size:20px;
+  font-weight:lighter;
+
+}
+.disc5{
+
+  text-decoration:none;
+  color:white;
+  font-size:20px;
+  font-weight:lighter;
+}
+.disc6{
+
+  text-decoration:none;
+  color:white;
+  font-size:20px;
+  font-weight:lighter;
+}
+.disc7{
+
+  text-decoration:none;
+  color:white;
+  font-size:20px;
+  font-weight:lighter;
+}
+.disc8{
+
+  text-decoration:none;
+  color:white;
+  font-size:20px;
+  font-weight:lighter;
+}
+/*degree programs*/
+.swift{
+  color:white;
+  font-weight:bold;
+  position:absolute;
+  top:150px;
+  left:800px;
+
+
+}
+.dos{
+  position:absolute;
+  left:800px;
+  top:190px;
+  
+}
+.abc{
+     
+     
+     color:white;
+     font-size:20px;
+     
+}
+.cde{
+  color:white;
+  font-size:20px;
+  position:absolute;
+  
+}
+.efg{
+  
+  color:white;
+  font-size:20px;
+  
+}
+.person{
+  color:white;
+  font-weight:bold;
+  position:absolute;
+  top:150px;
+  left:1300px;
+}
+.swara{
+  position:absolute;
+  left:1300px;
+  top:200px;
+}
+.meer{
+  color:white;
+  font-size:20px;
+}
+.op{
+  position:absolute;
+  left:900px;
+  bottom:15px;
+
+}
+.fa-facebook{
+  color:white;
+
+}
+.fa-twitter{
+  color:white;
+}
+.fa-pinterest{
+  color:white;
+}
+.fa-instagram{
+  color:white;
+
+}
+.fa-linkedin{
+  color:white;
+}  
+.fa-youtube{
+  color:white;
+}
+.linga{
+  width:10%;
+  height:2cm;
+  background-color:red;
+  position:absolute;
+  bottom:-1000px;
+}
